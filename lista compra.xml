@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercados>
+  <supermercado>
+    <nombre>Carrefour</nombre>
+    <direccion>Avinguda de Blasco Ibáñez, 1</direccion>
+    <geolocalizacion>
+      <latitud>38.97147670992584</latitud>
+      <longitud>-0.17054059615488726</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Leche de almendras</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-05-01 a 2023-06-20</periodo_vigencia>
+        <unidad_medida>litro</unidad_medida>
+        <precio>1.09</precio>
+        <cantidad>2</cantidad>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Pan espelta</nombre>
+        <oferta>false</oferta>
+        <unidad_medida>unidad</unidad_medida>
+        <precio>1</precio>
+        <cantidad>3</cantidad>
+        <adquirido>true</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>Lidl</nombre>
+    <direccion>Avinguda de la Vital, 31</direccion>
+    <geolocalizacion>
+      <latitud>38.968719431551314</latitud>
+      <longitud>-0.17135501644770748</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Quinoa</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-05-05 a 2023-05-15</periodo_vigencia>
+        <unidad_medida>kg</unidad_medida>
+        <precio>2.5</precio>
+        <cantidad>1</cantidad>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Aceite de oliva</nombre>
+        <oferta>false</oferta>
+        <unidad_medida>litro</unidad_medida>
+        <precio>3.99</precio>
+        <cantidad>2</cantidad>
+        <adquirido>false</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>Mercadona</nombre>
+    <direccion>Parque de la estacion 8</direccion>
+    <geolocalizacion>
+      <latitud>38.9446183</latitud>
+      <longitud>-0.1889181</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Patata</nombre>
+        <oferta>false</oferta>        
+        <unidad_medida>kg</unidad_medida>
+        <precio>1.02</precio>
+        <cantidad>1</cantidad>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Piña</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>2023-05-01 a 2023-06-20</periodo_vigencia>
+        <unidad_medida>kg</unidad_medida>
+        <precio>0.99</precio>
+        <cantidad>3</cantidad>
+        <addquirido>true</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+</supermercados>
